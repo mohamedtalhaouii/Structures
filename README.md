@@ -8,30 +8,30 @@
 <h2>Principes de Base</h2>
 
 1. **Saisie de Données :**
-   - Lecture des données d'entrée utilisateur.
-   - Validation et transformation des données si nécessaire.
+- Lecture des données d'entrée utilisateur.
+- Validation et transformation des données si nécessaire.
    
 2. **Stockage des Données :**
-   - Utilisation de structures de données comme les listes, les dictionnaires, ou les objets pour stocker les informations en mémoire.
+- Utilisation de structures de données comme les listes, les dictionnaires, ou les objets pour stocker les informations en mémoire.
    
 3. **Enregistrement des Données :**
-   - Écriture des données dans des fichiers ou des bases de données pour une conservation à long terme.
+- Écriture des données dans des fichiers ou des bases de données pour une conservation à long terme.
 
 4. **Récupération des Données :**
-   - Lecture des données depuis les fichiers ou les bases de données pour une utilisation ultérieure.
+- Lecture des données depuis les fichiers ou les bases de données pour une utilisation ultérieure.
 
 5. **Gestion des Erreurs :**
-   - Gestion des erreurs potentielles lors de la saisie, de l'enregistrement, et de la récupération des données pour assurer l'intégrité des données.
+- Gestion des erreurs potentielles lors de la saisie, de l'enregistrement, et de la récupération des données pour assurer l'intégrité des données.
 
 <h2>Types d'Enregistrements</h2>
 
 1. **Enregistrements Séquentiels :**
-   - Données enregistrées dans l'ordre d'entrée.
-   - Utilisation fréquente de fichiers texte ou binaires.
+- Données enregistrées dans l'ordre d'entrée.
+- Utilisation fréquente de fichiers texte ou binaires.
    
 2. **Enregistrements Indexés :**
-   - Données stockées avec des indices pour faciliter la recherche rapide.
-   - Utilisation de structures comme les arbres B, les tables de hachage.
+- Données stockées avec des indices pour faciliter la recherche rapide.
+- Utilisation de structures comme les arbres B, les tables de hachage.
 
 3. **Enregistrements en Bases de Données :**
    - Utilisation de systèmes de gestion de bases de données relationnelles (SGBDR) ou non relationnelles (NoSQL).
