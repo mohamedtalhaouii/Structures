@@ -34,8 +34,8 @@
 - Utilisation de structures comme les arbres B, les tables de hachage.
 
 3. **Enregistrements en Bases de Données :**
-   - Utilisation de systèmes de gestion de bases de données relationnelles (SGBDR) ou non relationnelles (NoSQL).
-   - Support pour les opérations complexes de requête et de manipulation des données.
+- Utilisation de systèmes de gestion de bases de données relationnelles (SGBDR) ou non relationnelles (NoSQL).
+- Support pour les opérations complexes de requête et de manipulation des données.
 
 <h2>Exemple Pratique en Python</h2>
 
